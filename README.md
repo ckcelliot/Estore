@@ -14,3 +14,4 @@
 5. CRUD Application (create, read, update and delete)
 6. Paypal API Integration
 7. Simple Mail Transfer Protocol (SMTP)
+8. Forgot Password & Resetting Password
